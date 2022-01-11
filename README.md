@@ -1,2 +1,2 @@
-# awsomicsc
-Custom analysis of single cell data
+# awsomicSC
+Custom functions for analyzing single cell data
